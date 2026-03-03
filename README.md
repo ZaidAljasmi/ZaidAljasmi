@@ -9,4 +9,3 @@
 # Socials
 
 * Instagram: [@_z61d](https://www.instagram.com/_z61d?igsh=bmkwMzZpaGszcno5)
-* Telegram: [@ZaidAljasmi](https://t.me/ZaidAljasmi)
