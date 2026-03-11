@@ -1,7 +1,7 @@
 # About me
 
 * 1ˢᵗ year Computer Technical Engineering student
-* I use Linux.
+* I use GNU/Linux.
 * Neovim enthusiast (btw)
 
 ---
